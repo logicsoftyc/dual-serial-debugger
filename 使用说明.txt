@@ -204,4 +204,7 @@ pip install PyQt5 pyserial
 - 启动时在日志中显示版本和构建时间
 - 点击"关于"按钮查看详细信息
 - 版本信息包含：版本号、构建时间、功能描述
-- 构建时间自动适配，每次运行都会更新 
+- 构建时间自动适配，每次运行都会更新
+
+-https://github.com/logicsoftyc/dual-serial-debugger
++https://github.com/logicsoftyc/dual-serial-debugger 

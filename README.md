@@ -40,7 +40,7 @@ pip install PyQt5 pyserial
 
 ### 1. 克隆项目
 ```bash
-git clone https://github.com/your-username/dual-serial-debugger.git
+git clone https://github.com/logicsoftyc/dual-serial-debugger.git
 cd dual-serial-debugger
 ```
 
