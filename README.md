@@ -91,7 +91,7 @@ dual-serial-debugger/
 ## 版本信息
 
 - **当前版本**：v1.0.0
-- **构建时间**：2024-12-19 15:30:00
+- **构建时间**：2025-06-27 11:23:11
 - **作者**：logicsoft@qq.com
 
 ## 主要特性对比
@@ -142,12 +142,12 @@ dual-serial-debugger/
 ## 联系方式
 
 - **作者**：logicsoft@qq.com
-- **项目地址**：https://github.com/your-username/dual-serial-debugger
+- **项目地址**：https://github.com/logicsoftyc/dual-serial-debugger
 - **问题反馈**：请在GitHub Issues中提交
 
 ## 更新日志
 
-### v1.0.0 (2024-12-19)
+### v1.0.0 (2025-06-27)
 - 初始版本发布
 - 支持双串口调试
 - 支持多种编码和格式
